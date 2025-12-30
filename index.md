@@ -13,26 +13,26 @@
 **Some relevant tags here** {{ python }}
 automation
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/assets/images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
 ---
 
 
-## Adversity, Protective Supports, and Resilience: Predicting Resilience in Children from the NSCH Dataset
+## Adversity, Supports, and Resilience: A Machine Learning Analysis of Child Flourishing in the 2023 NSCH
 
-**Some relevant tags here** {{ R }} {{ machine-learning }}
+{{ R }} {{ machine-learning }}
+<p>
+    *Cluster Analysis, SVM, Regularized Logistic Regression, Support Vector Machines, Tree Ensembles, Model Evaluation*
+    <br><br>
+    Children’s resilience and well-being emerge from complex interactions among social, economic, and psychological influences. Using survey data on ACEs, family structure, parental health, and child behavior, this study explored whether machine learning could detect subtle differences among children with varying levels of flourishing. Unsupervised clustering was also used to determine whether natural patterns in the data aligned with these resilience outcomes. The models were able to differentiate the highest and lowest flourishing groups but consistently struggled with the intermediate class—likely due to the considerable diversity and overlap revealed by the clustering analysis. The clusters showed that children in the ‘Moderate’ category represent a mix of profiles rather than a single, unified group. Together, these findings highlight the multidimensional nature of child flourishing and demonstrate the value of integrating clustering with predictive modeling to uncover meaningful family patterns that could support more targeted approaches.
+</p>
+<p>
+    <img src="/assets/images/dummy_thumbnail.jpg?raw=true"/>
+</p>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-- [Presentation Paper](http://example.com/)
+- [Presentation Paper](https://docs.google.com/document/d/1tpjdn5AoCFD5HgNKBvrzqcKTmJZNQwCeaa3gbLW2pTM/edit?usp=sharing)
 
 ---
 
@@ -44,7 +44,7 @@ Some text here
 
 Some graphs here
 
-- [Presentation Paper](http://example.com/)
+- [Presentation Paper](https://docs.google.com/document/d/1-o4ZdEfbNxdI0uw-eawbuCaA0Xv-_qJNTuU7LlF7fi4/edit?usp=sharing)
 
 ---
 
